@@ -4,7 +4,7 @@ import React from 'react';
 import {Image, Platform, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
 
 import invariant from 'invariant';
-import cloneReferencedElement from 'react-native-clone-referenced-element';
+import cloneReferencedElement from 'react-clone-referenced-element';
 
 import ExNavigatorStyles from './ExNavigatorStyles';
 import ExSceneConfigs from './ExSceneConfigs';

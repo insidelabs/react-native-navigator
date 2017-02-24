@@ -40,9 +40,9 @@
     "url": "https://github.com/exponentjs/ex-navigator/issues"
   },
   "dependencies": {
-    "@exponent/react-native-responsive-image": "0.0.4",
+    "@exponent/react-native-responsive-image": "https://github.com/laaxlabs/react-native-responsive-image",
     "invariant": "^2.1.0",
-    "react-native-clone-referenced-element": "^1.0.0"
+    "react-clone-referenced-element": "^1.0.0"
   },
   "description": "Route-centric navigation built on top of React Native's Navigator",
   "devDependencies": {},
