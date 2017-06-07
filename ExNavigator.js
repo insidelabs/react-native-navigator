@@ -3,7 +3,6 @@
 import React, {PropTypes} from 'react';
 import {
   Image,
-  Navigator,
   Text,
   View,
 } from 'react-native';
