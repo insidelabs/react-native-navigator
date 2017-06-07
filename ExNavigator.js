@@ -9,6 +9,7 @@ import {
 
 import invariant from 'invariant';
 import cloneReferencedElement from 'react-clone-referenced-element';
+import { Navigator } from 'react-native-deprecated-custom-components';
 
 import ExNavigatorMixin from './ExNavigatorMixin';
 import ExNavigatorStyles from './ExNavigatorStyles';
