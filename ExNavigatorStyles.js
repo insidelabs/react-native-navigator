@@ -6,7 +6,7 @@ import {StyleSheet} from 'react-native';
 import Colors from './Colors';
 import Layout from './Layout';
 
-let ExNavigatorStyles = StyleSheet.create({
+let ExNavigatorStyles = {
   navigator: { },
   scene: {
     backgroundColor: '#fff',
@@ -76,7 +76,7 @@ let ExNavigatorStyles = StyleSheet.create({
     marginTop: 11,
     marginLeft: 6,
   },
-});
+};
 
 ExNavigatorStyles.barButtonPressRetentionOffset = {
   top: 40,
